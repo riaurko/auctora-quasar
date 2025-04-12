@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "Ford Mustang GT 2024",
+        "image": "https://i.ibb.co.com/LDWmLW1J/sports-car.png",
+        "currentBidPrice": "38,550",
+        "bidsCount": 1,
+        "timeLeft": "6 Days"
+    },
+    {
+        "id": 2,
+        "title": "GMC Hummer EV 2024",
+        "image": "https://i.ibb.co.com/pvG3FV0D/suv-car.png",
+        "currentBidPrice": "134,230",
+        "bidsCount": 12,
+        "timeLeft": "2 Days"
+    },
+    {
+        "id": 3,
+        "title": "H. Moser Streamliner Blacker than Black",
+        "image": "https://i.ibb.co.com/XxRXNTgd/watch.png",
+        "currentBidPrice": "10,100",
+        "bidsCount": 4,
+        "timeLeft": "4 Days"
+    },
+    {
+        "id": 4,
+        "title": "Honda CBR-1000RR",
+        "image": "https://i.ibb.co.com/G4TzqpyG/bike.png",
+        "currentBidPrice": "18,990",
+        "bidsCount": 6,
+        "timeLeft": "5 Days"
+    },
+    {
+        "id": 5,
+        "title": "HP Elitebook 445 G7",
+        "image": "https://i.ibb.co.com/Dfpj6bdy/laptop.png",
+        "currentBidPrice": "455",
+        "bidsCount": 7,
+        "timeLeft": "6 Days"
+    },
+    {
+        "id": 6,
+        "title": "Canon EOS 6D Mark II",
+        "image": "https://i.ibb.co.com/7xL0z1zB/camera.png",
+        "currentBidPrice": "948",
+        "bidsCount": 11,
+        "timeLeft": "4 Days"
+    },
+    {
+        "id": 7,
+        "title": "Milk and Honey",
+        "image": "https://i.ibb.co.com/RpwK7xcw/book.png",
+        "currentBidPrice": "16",
+        "bidsCount": 2,
+        "timeLeft": "1 Day"
+    }
+]
