@@ -1,7 +1,7 @@
 # Project Name: Auctora Quasar
 ## An E-commerce web application made with React.js and Tailwind CSS
 
-#### :safety_pin: Visit the Website: (auctora-quasar.netlify.app)[https://auctora-quasar.netlify.app]
+#### :safety_pin: Visit the Website: https://auctora-quasar.netlify.app
 
 ### :pager: Website Details
 - **Navbar** with a Glassy background.
@@ -14,6 +14,6 @@
 - Auction Items **Favoriting** functionality (not real-life bidding).
 
 ### :gear: Technologies
-- <img src="https://p7.hiclipart.com/preview/224/525/139/react-javascript-library-angularjs-github-native-thumbnail.jpg" width="24" height="24"> [**React.js**](https://react.dev) for `rapid development`.
-- <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo-thumbnail.png" width="24" height="24">  [**Tailwind CSS**](https://v3.tailwindcss.com) for `dynamic styling`.
-- <img src="https://cdn.freebiesupply.com/logos/large/2x/json-logo-png-transparent.png" width="24" height="24">  [**JSON**](https://www.json.org) Fake Data for `quicker and dynamic` auction items data.
+- [**React.js**](https://react.dev) for `rapid development`.
+- [**Tailwind CSS**](https://v3.tailwindcss.com) for `dynamic styling`.
+- [**JSON**](https://www.json.org) Fake Data for `quicker and dynamic` auction items data.
